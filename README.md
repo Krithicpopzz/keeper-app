@@ -19,3 +19,13 @@ A simple web app for managing and storing notes. Built with React and deployed o
 1. Clone the repository:
    ```bash
    git clone https://github.com/Krithicpopzz/keeper-app.git
+2. Navigate into the project directory:
+   ```bash
+   cd keeper-app
+3. Install dependencies:
+   ```bash
+   npm install
+4. Run the development server:
+   ```bash
+   npm run dev
+Open your browser and go to http://localhost:3000 to see the app in action.
