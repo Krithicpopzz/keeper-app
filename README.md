@@ -29,3 +29,14 @@ A simple web app for managing and storing notes. Built with React and deployed o
    ```bash
    npm run dev
 Open your browser and go to http://localhost:3000 to see the app in action.
+
+
+## Build and Deploy
+
+1. To build the project for production:
+   ```bash
+   npm run build
+The production build will be stored in the dist/ directory.
+2. To deploy to GitHub Pages:
+   ```bash
+   npm run deploy
