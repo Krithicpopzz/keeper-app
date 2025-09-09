@@ -37,6 +37,7 @@ Open your browser and go to http://localhost:3000 to see the app in action.
    ```bash
    npm run build
 The production build will be stored in the dist/ directory.
+
 2. To deploy to GitHub Pages:
    ```bash
    npm run deploy
