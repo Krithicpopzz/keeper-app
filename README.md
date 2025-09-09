@@ -44,8 +44,8 @@ The production build will be stored in the dist/ directory.
 
 ## Usage
 
-Click the "+" button to add a new note.
+- Click the "+" button to add a new note.
 
-Edit or delete any existing notes.
+- Edit or delete any existing notes.
 
-The notes are saved in local storage, so they persist even after the page is refreshed.
+- The notes are saved in local storage, so they persist even after the page is refreshed.
