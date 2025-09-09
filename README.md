@@ -41,3 +41,11 @@ The production build will be stored in the dist/ directory.
 2. To deploy to GitHub Pages:
    ```bash
    npm run deploy
+
+## Usage
+
+Click the "+" button to add a new note.
+
+Edit or delete any existing notes.
+
+The notes are saved in local storage, so they persist even after the page is refreshed.
